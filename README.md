@@ -24,5 +24,6 @@
 <div align="center">
   
 ![Mint's GitHub stats](https://github-readme-stats.vercel.app/api?username=mint3100&show_icons=true&theme=transparent)
-
+<br><br>
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=mint3100&layout=compact)](https://wakatime.com/@mint3100)
 </div>
