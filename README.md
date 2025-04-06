@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/python-181717?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Unreal Engine-181717?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-181717?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-181717?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/c sharp-181717?style=for-the-badge&logo=csharp&logoColor=white">
 </div>
 <div align="left">
-  
+
+[![wakatime](https://wakatime.com/badge/user/018d9dfb-01e5-4f34-b325-c92ea45b71fd.svg)](https://wakatime.com/@018d9dfb-01e5-4f34-b325-c92ea45b71fd)
 ###  :wave: Welcome to my github profile !
 #### 안녕하세요! 현재 국립창원대학교 컴퓨터공학과 25학번인 Mint라고 합니다! 2020년부터 개발을 지속적으로 하고 있으며, 인공지능 분야를 열심히 공부하고있습니다. +_+
 
