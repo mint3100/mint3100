@@ -8,15 +8,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/018d9dfb-01e5-4f34-b325-c92ea45b71fd.svg)](https://wakatime.com/@018d9dfb-01e5-4f34-b325-c92ea45b71fd)
 ###  :wave: Welcome to my github profile !
-#### 안녕하세요! 현재 국립창원대학교 컴퓨터공학과 25학번인 Mint라고 합니다! 2020년부터 개발을 지속적으로 하고 있으며, 인공지능 분야를 열심히 공부하고있습니다. +_+
+404 Not Found :(
 
 ### :writing_hand: Social Media!
-  
-[Facebook](https://www.facebook.com/profile.php?id=100072395130774)
+500 Internal Server Error :(
 
-[Blog](https://blog.mintserver.kr)
-
-[Introduce](https://hanafu.cat)
 
 </div>
 
